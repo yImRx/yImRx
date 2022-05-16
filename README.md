@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yImRx
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on automation systems
+- 📫 How to reach me. find a way.
